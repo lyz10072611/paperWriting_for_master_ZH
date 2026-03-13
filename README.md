@@ -20,10 +20,10 @@
 
 ## 安装（作为 Cursor Skill）
 
-1. 克隆到本地（将 `YOUR_USERNAME` 换成你的 GitHub 用户名）：
+1. 克隆到本地：
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/paper-writing4master.git
+git clone https://github.com/lyz10072611/paperWriting_for_master_ZH.git
 ```
 
 2. 放入 Cursor 的 skills 目录（二选一）：
