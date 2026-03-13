@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+*.pdf
+!资料/01_格式要求/*.pdf
+# 仅忽略仓库根目录下的 style_profile（若有）；.ai_context 内模板需提交
+/style_profile.md
